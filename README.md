@@ -1,4 +1,4 @@
- I'm Julian, an IT Professional</a>☺</h1>
+ I'm Julian, an IT Professional
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
